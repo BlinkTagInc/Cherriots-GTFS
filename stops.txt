@@ -660,3 +660,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1784,SattCool,Satter @ Cooley (CCC),SATTER DR NE & COOLEY DR NE,44.979674,-122.980459,,,,,,0
 1785,45thBrow,45th @ Brown Lot (CCC),45TH AV NE & MILKEY WY NE,44.977614,-122.973288,,,,,,0
 1786,LancSilv,Lancaster @ Silverton RD,LANCASTER DR NE & SILVERTON RD NE,44.970222,-122.983347,,,,,,0
+223,NE_P&R,Market Street Park & Ride,NE PARK & RIDE,44.951705,-122.99289,,,,,,0
+1305,WilsTC,Wilsonville Station,SMART TRANSIT CENTER & CHURCH ST NE,45.311436,-122.77638,,,,,,0
+1770,WilsBooN,Wilsonville Rd @ Boones Ferry (Northbound),,45.303056,-122.774057,,,,,,0
+1771,WillKinN,Willsonvile Rd. @ Kinsman (Northbound),,45.303058,-122.777044,,,,,,0
+1775,WillKinS,Willsonville Rd @ Kinsman (Southbound),,45.302849,-122.776768,,,,,,0
+1776,WillBooS,Willsonvile Rd @ Boones Ferry (Southbound),,45.302787,-122.77342,,,,,,0
