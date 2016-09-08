@@ -666,3 +666,59 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1771,WillKinN,Willsonvile Rd. @ Kinsman (Northbound),,45.303058,-122.777044,,,,,,0
 1775,WillKinS,Willsonville Rd @ Kinsman (Southbound),,45.302849,-122.776768,,,,,,0
 1776,WillBooS,Willsonvile Rd @ Boones Ferry (Southbound),,45.302787,-122.77342,,,,,,0
+928,TurnWalm,1940 Turner (Salem Walmart),1940 TURNER RD SE & UNNAMED RD SE,44.914283,-122.998414,,,,,,0
+1457,PorRivSB,Portland Rd @ Riverton (Brooks),PORTLAND RD NE & RIVERTON ST NE,45.04772,-122.954574,,,,,,0
+1459,1stArthu,1st @ Arthur (Woodburn Transit Center),N 1ST ST & ARTHUR ST,45.142389,-122.857903,,,,,,0
+1460,MtHoo99E,Mt Hood Ave @ 99-E (Bi-Mart),MT HOOD AV & PROGRESS WY,45.151195,-122.83492,,,,,,0
+1461,LincFron,Lincoln @ Front (Woodburn Chemeketa CC),LINCOLN ST & CUPIDS CT,45.143382,-122.854121,,,,,,0
+1464,ChurClev,Church @ Cleveland (Mt. Angel City Hall),E CHURCH ST & S GARFIELD ST,45.067422,-122.797649,,,,,,0
+1465,1stBowti,1st @ Bowtie (Silverton Roth's),N 1ST ST & D ST,45.011579,-122.784772,,,,,,0
+1468,Mai5thWB,Main @ 5th (Aumsville Community Center),MAIN ST & S 5TH ST,44.84091,-122.870477,,,,,,0
+1469,StaySafe,First @ Fir (Stayton Safeway),N 1ST AV & E FIR ST,44.805253,-122.794434,,,,,,0
+1470,SantCent,Sublimity Rd @ Golf Club (Stayton DMV),SUBLIMITY RD SE & 2ND ST SE,44.831628,-122.822375,,,,,,0
+1482,Mai5thEB,Main @ 5th (Aumsville Community Center),MAIN ST & S 5TH ST,44.840749,-122.870452,,,,,,0
+1483,JohStrrW,Johnson @ Starr (Sublimity Park),NW JOHNSON ST & NW STARR ST,44.83095,-122.79567,,,,,,0
+1484,Wash4th,Washington @ 4th (Stayton),E WASHINGTON ST & N 4TH AV,44.800712,-122.791322,,,,,,0
+1486,GingHous,Albany-Lyons Hwy @ Gingerbread (Mehama),GINGERBREAD ST SE & GROVE ST SE,44.792193,-122.618909,,,,,,0
+1487,LyonsFS,Main @ 10th (Lyons Fire Station),1114 UNNAMED RD,44.773535,-122.611088,,,,,,0
+1488,GatesP&R,Central @ Gates Hill (Gates Park & Ride),W CENTRAL AV & E CENTRAL AV,44.755475,-122.416705,,,,,,0
+1489,MillMkt,Ivy @ 1st (Mill City Market),829 SANTIAM PARK RD SE & UNNAMED RD,44.749211,-122.477588,,,,,,0
+1491,StaySafW,First @ Fir (Stayton Safeway),N 1ST AV & E PINE ST,44.805639,-122.79423,,,,,,0
+1492,Was4thIB,Washington @ 4th (Stayton),E WASHINGTON ST & N 4TH AV,44.800847,-122.791385,,,,,,0
+1495,LyonMkt,Main @ 10th (Lyons Market),NORTH SANTIAM HW SE & JENNIE RD SE,44.777621,-122.609264,,,,,,0
+1498,JersWate,Jersey @ Water (Silverton City Hall),JERSEY ST & S 1ST ST,45.004196,-122.782144,,,,,,0
+1500,KingDall,Kings Valley @ Dallas Dr (Dallas Walmart Parking Lot),E ELLENDALE AV & SE UGLOW AV,44.93141,-123.30832,,,,,,0
+1501,SafeDall,Orchard @ Kings Valley (Dallas Safeway),ORCHARD DR & E ELLENDALE AV,44.929891,-123.31246,,,,,,0
+1502,13thMonm,13th @ Monmouth St (Independence Roth's),S 13TH ST & MONMOUTH ST,44.850843,-123.204208,,,,,,0
+1503,FairMapl,Fairview @ Maple (Dallas Center Market),SW FAIRVIEW AV & SW MAPLE ST,44.916544,-123.326787,,,,,,0
+1505,OakMain,Oak @ Main (Dallas),SW OAK ST & MAIN ST,44.92267,-123.31729,,,,,,0
+1506,WashLewi,Washington @ Lewis (West Valley Hospital),SE WASHINGTON ST & SE LEWIS ST,44.919329,-123.310247,,,,,,0
+1508,GodsMill,Godsey @ Miller (Dallas),SE GODSEY RD & SE MILLER AV,44.917105,-123.295081,,,,,,0
+1513,MonmChuW,Monmouth Ave @ Church (WOU Werner Center),N MONMOUTH AV & N KNOX ST,44.85222,-123.23748,,,,,,0
+1514,MonmCH,Main @ Warren (Monmouth City Hall),W MAIN ST & E MAIN ST,44.848471,-123.235967,,,,,,0
+1515,Mon2ndIB,Monmouth St @ 2nd (Independence Library),MONMOUTH ST & S 2ND ST,44.851074,-123.184974,,,,,,0
+1516,MainPolk,Main @ Polk (Independence),N MAIN ST & N POLK ST,44.860426,-123.184565,,,,,,0
+1517,MaiPolOB,Main @ Polk (Independence),N MAIN ST & N POLK ST,44.860219,-123.184793,,,,,,0
+1518,Mon2ndOB,Monmouth St @ 2nd (Independence Library),MONMOUTH ST & S 2ND ST,44.851243,-123.18628,,,,,,0
+1519,MainWarr,Main @ Warren (Monmouth City Hall),E MAIN ST & N KNOX ST,44.848634,-123.23555,,,,,,0
+1520,MonmChuE,Monmouth Ave @ Church (WOU Library),N MONMOUTH AV & N KNOX ST,44.8525,-123.23724,,,,,,0
+1521,GodMilOB,Godsey @ Miller (Dallas),SE GODSEY RD & SE MILLER AV,44.916351,-123.294849,,,,,,0
+1522,WashLyle,Washington @ Lyle (West Valley Hospital),SE WASHINGTON ST & SE LEWIS ST,44.919513,-123.312366,,,,,,0
+1523,JeffOak,Jefferson @ Oak (Dallas),SE JEFFERSON ST & SE MILL ST,44.922499,-123.315207,,,,,,0
+1524,DallAqua,Lacreole @ Barberry (Aquatic Center),SE LACREOLE DR & SE BARBERRY AV,44.919377,-123.299998,,,,,,0
+1525,FirvMagn,Fir Villa @ Rhododendron (Dallas),SE FIR VILLA RD & SE MAGNOLIA AV,44.921652,-123.280816,,,,,,0
+1526,FirvElle,Fir Villa @ Ellendale (Dallas),SE FIR VILLA RD & E ELLENDALE AV,44.927869,-123.280865,,,,,,0
+1527,FirvEllW,Fir Villa @ Ellendale (Dallas),SE FIR VILLA RD & E ELLENDALE AV,44.927608,-123.281092,,,,,,0
+1528,FirvMagW,Fir Villa @ Rhododendron (Dallas),SE FIR VILLA RD & SE RHODODENDRON AV,44.92184,-123.281058,,,,,,0
+1748,MainEcWB,Main @ Catron (Monmouth Public Library),,44.84859,-123.2311,,,,,,0
+1751,4thDougl,4th @ Douglas (Gervais Post Office),4TH ST & DOUGLAS AV,45.107431,-122.899216,,,,,,0
+1752,PorRivNB,Portland Rd @ Riverton (Brooks),PORTLAND RD NE & RIVERTON ST NE,45.047324,-122.954587,,,,,,0
+1753,CenFaiWB,Center @ Fairview (Silverton Hospital),W CENTER ST & FAIRVIEW ST,45.003365,-122.790174,,,,,,0
+1754,CenFaiEB,Center @ Fairview (Silverton Hospital),W CENTER ST & FAIRVIEW ST,45.003204,-122.790161,,,,,,0
+1755,Boise2nd,Boise @ 2nd (Turner Burkland Park),BOISE ST SE & 3RD ST SE,44.843021,-122.951912,,,,,,0
+1759,Cedar5th,Cedar @ 5th (Lyons City Hall),RIVERWOOD DR SE,44.784654,-122.606448,,,,,,0
+1761,LacrBarb,Lacreole @ Barberry (Dallas Aquatic Center),SE LACREOLE DR & SE BARBERRY AV,44.919288,-123.299808,,,,,,0
+1763,Ivy1stW,Ivy @ 1st (Mill City Market),,44.749275,-122.477725,,,,,,0
+1764,MehamaIB,Gingerbread @ Hwy 226 (Mehama),GINGERBREAD ST SE & HWY 226 SE,44.79204,-122.618809,,,,,,0
+1789,LincBrya,Lincoln @ Bryan (Woodburn),,45.143216,-122.843163,,,,,,0
+1790,LincCaro,Lincoln @ Carol (Woodburn),,45.142743,-122.839736,,,,,,0

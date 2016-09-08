@@ -1106,3 +1106,40 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 7362,1,493002,Salem,,1,0,22158,0,0
 7362,1,493001,Salem,,1,0,22158,0,0
 7362,1,493011,Salem,,1,202723,22158,0,0
+7332,1,491525,BiMart Woodburn,,0,0, ,0,0
+7332,1,491526,BiMart Woodburn,,0,0, ,0,0
+7332,1,491527,BiMart Woodburn,,0,0, ,0,0
+7332,1,491528,BiMart Woodburn,,0,0, ,0,0
+7332,1,491495,Court St. @ Church St.,,1,202591, ,0,0
+7332,1,491494,Court St. @ Church St.,,1,202591, ,0,0
+7332,1,491493,Court St. @ Church St.,,1,202589, ,0,0
+7332,1,491492,Court St. @ Church St.,,1,202589, ,0,0
+7333,1,491499,Silverton Roth's,,0,202593, ,0,0
+7333,1,491498,Silverton Roth's,,0,202593, ,0,0
+7333,1,491497,Silverton Roth's,,0,202592, ,0,0
+7333,1,491496,Mt. Angel City Hall,,0,202592, ,0,0
+7333,1,491503,Court @ Church,,1,202593, ,0,0
+7333,1,491502,Court @ Church,,1,202593, ,0,0
+7333,1,491501,Court @ Church,,1,202592, ,0,0
+7333,1,491500,Court @ Church,,1,202592, ,0,0
+7334,1,491529,Gates Park & Ride (across Post Off),,0,0, ,0,0
+7334,1,491530,Gates Park & Ride (across Post Off),,0,0, ,0,0
+7334,1,491531,Gates Park & Ride (across Post Off),,0,0, ,0,0
+7334,1,491508,Court St. @ Church St.,,1,202595, ,0,0
+7334,1,491507,Court St. @ Church St.,,1,202595, ,0,0
+7334,1,491509,Court St. @ Church St.,,1,202594, ,0,0
+7335,1,491514,Court St. @ Church St.,,0,202598, ,0,0
+7335,1,491513,Court St. @ Church St.,,0,202598, ,0,0
+7335,1,491512,Court St. @ Church St.,,0,202597, ,0,0
+7335,1,491511,Court St. @ Church St.,,0,202596, ,0,0
+7335,1,491510,Court St. @ Church St.,,0,202596, ,0,0
+7335,1,491520,Goodwill in Dallas,,1,202598, ,0,0
+7335,1,491519,Walmart in Dallas,,1,202598, ,0,0
+7335,1,491518,Walmart in Dallas,,1,202597, ,0,0
+7335,1,491517,Walmart in Dallas,,1,202599, ,0,0
+7335,1,491516,Walmart in Dallas,,1,202596, ,0,0
+7335,1,491515,Walmart in Dallas,,1,202596, ,0,0
+7336,1,491522,Walmart in Dallas,,0,202601, ,0,0
+7336,1,491521,Walmart in Dallas,,0,202600, ,0,0
+7336,1,491524,Court St. @ Church St.,,1,202601, ,0,0
+7336,1,491523,Court St. @ Church St.,,1,202599, ,0,0
