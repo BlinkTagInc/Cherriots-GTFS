@@ -246,12 +246,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 707,StatCapi,State @ Capitol Bldg,STATE ST & WAVERLY ST NE,44.937882,-123.030706,,,,,,0
 708,Sta12OB,State @ 12th,STATE ST & 12TH ST SE,44.937028,-123.027382,,,,,,0
 718,MisFrdIB,Mission @ Ford,MISSION ST SE & FORD ST SE,44.925248,-123.016435,,,,,,0
-727,MadNorOB,Madrona @ Norpac Foods,MADRONA AV SE & AVIATION LP SE,44.910261,-123.011048,,,,,,0
-729,FaiMadOB,Fairview Ind @ Madrona,FAIRVIEW INDUSTRIAL DR SE & MADRONA AV SE,44.905293,-123.017466,,,,,,0
 733,FaiRee,Fairview Ind @ Reed,FAIRVIEW INDUSTRIAL DR SE & CASCADIA INDUSTRIAL ST SE,44.897224,-123.008642,,,,,,0
 735,3925Fair,3925 Fairview Ind (1st pullout),3925 FAIRVIEW INDUSTRIAL DR SE & CASCADIA INDUSTRIAL ST SE,44.900575,-123.012927,,,,,,0
 736,3685Fair,3685 Fairview Ind (2nd pullout),3750 FAIRVIEW INDUSTRIAL DR SE & CASCADIA INDUSTRIAL ST SE,44.902822,-123.015945,,,,,,0
-738,MadNorIB,Madrona @ Norpac Foods,MADRONA AV SE & AVIATION LP SE,44.908356,-123.013673,,,,,,0
 747,MissFord,Mission @ Ford,MISSION ST SE & FORD ST SE,44.924933,-123.016016,,,,,,0
 764,LibHarOB,Liberty @ Harvard,LIBERTY RD S & EWALD AV S,44.902165,-123.052173,,,,,,0
 765,3875Libe,3875 Liberty,3875 LIBERTY RD S & UNNAMED ST,44.899721,-123.053605,,,,,,0
@@ -656,7 +653,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1767,SkylJosW,Skyline @ Joseph,SKYLINE RD S & 14TH PL S,44.886394,-123.066532,,,,,,0
 1768,SilvPorS,Silverton Rd @ Portland Rd,,44.960537,-123.014195,,,,,,0
 1769,SilvPort,Silverton Rd @ Portland Rd,,44.960471,-123.014815,,,,,,0
-1778,Fair3831,3831 Fairview Ind.,FAIRVIEW INDUSTRIAL DR SE & STRONG RD SE,44.900324,-123.013789,,,,,,0
 1784,SattCool,Satter @ Cooley (CCC),SATTER DR NE & COOLEY DR NE,44.979674,-122.980459,,,,,,0
 1785,45thBrow,45th @ Brown Lot (CCC),45TH AV NE & MILKEY WY NE,44.977614,-122.973288,,,,,,0
 1786,LancSilv,Lancaster @ Silverton RD,LANCASTER DR NE & SILVERTON RD NE,44.970222,-122.983347,,,,,,0
