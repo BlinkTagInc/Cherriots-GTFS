@@ -1,27 +1,29 @@
 route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
-7337,cherriots-salem-or-us,01,N River Rd. / S Commercial,,3,,EC1D31,000000
-7362,cherriots-salem-or-us,01X,Willsonville / Salem  Express,,3,,7C459B,000000
-7339,cherriots-salem-or-us,02,Market / Brown,,3,,FF7F7F,000000
-7340,cherriots-salem-or-us,02X,Grand Ronde / Salem Express,,3,,7C459B,000000
-7341,cherriots-salem-or-us,03,Portland Road,,3,,1997D1,000000
-7342,cherriots-salem-or-us,04,State / Lancaster,,3,,004C73,000000
-7343,cherriots-salem-or-us,04A,State / Lancaster,,3,,004C73,000000
-7344,cherriots-salem-or-us,05,Edgewater / Center,,3,,FE545C,000000
-7345,cherriots-salem-or-us,05A,Edgewater / Center,,3,,FE545C,000000
-7346,cherriots-salem-or-us,06,Wallace / Fairview Industrial,,3,,828282,000000
-7347,cherriots-salem-or-us,07,Mission / State,,3,,B4B4B4,000000
-7348,cherriots-salem-or-us,08,12th / Liberty,,3,,7FBAE5,000000
-7349,cherriots-salem-or-us,08A,12th / Liberty,,3,,7FBAE5,000000
-7350,cherriots-salem-or-us,09,Cherry / Parkmeadow,,3,,004C73,000000
-7351,cherriots-salem-or-us,09A,Cherry / Parkmeadow,,3,,004C73,000000
-7352,cherriots-salem-or-us,10,Lansing / Hawthorne,,3,,B4B4B4,000000
-7353,cherriots-salem-or-us,11,Lancaster / Keizer,,3,,CE2029,000000
-7354,cherriots-salem-or-us,12,Haysville Drive,,3,,B4B4B4,000000
-7355,cherriots-salem-or-us,13,Silverton Road,,3,,6CCFF6,000000
-7356,cherriots-salem-or-us,14,Windsor Island,,3,,6CCFF6,000000
-7357,cherriots-salem-or-us,15X,Airport Rd. Park & Ride Express,,3,,CE2029,000000
-CARTS-7332,cherriots-salem-or-us,CARTS10,Salem-Woodburn,,3,,00A85B,000000
-CARTS-7333,cherriots-salem-or-us,CARTS20,Salem-Silverton,,3,,ABC945,000000
-CARTS-7334,cherriots-salem-or-us,CARTS30,Canyon Connector,,3,,F0B930,000000
-CARTS-7335,cherriots-salem-or-us,CARTS40,Polk County,,3,,E679AB,000000
-CARTS-7336,cherriots-salem-or-us,CARTS50,Dallas-Salem Express,,3,,E03A54,000000
+7620,cherriots-salem-or-us,02,Market / Brown,,3,,F15B5C,FFFFFF
+7622,cherriots-salem-or-us,03,Portland Road,,3,,006BA9,FFFFFF
+7623,cherriots-salem-or-us,04,State Street,,3,,006BA9,FFFFFF
+7624,cherriots-salem-or-us,05,Center Street,,3,,F15B5C,FFFFFF
+7625,cherriots-salem-or-us,06,Mission / Fairview Industrial,,3,,006BA9,FFFFFF
+7626,cherriots-salem-or-us,07,Mission / State,,3,,006BA9,FFFFFF
+7627,cherriots-salem-or-us,08,12th / Liberty,,3,,006BA9,FFFFFF
+7628,cherriots-salem-or-us,09,Cherry / River Rd,,3,,006BA9,FFFFFF
+7645,cherriots-salem-or-us,10X,Woodburn / Salem Express,,3,,50748A,FFFFFF
+7629,cherriots-salem-or-us,11,Lancaster / Keizer,,3,,F15B5C,FFFFFF
+7630,cherriots-salem-or-us,12,Haysville Drive,,3,,006BA9,FFFFFF
+7631,cherriots-salem-or-us,13,Silverton Road,,3,,006BA9,FFFFFF
+7632,cherriots-salem-or-us,14,Windsor Island,,3,,006BA9,FFFFFF
+7633,cherriots-salem-or-us,16,Wallace Road,,3,,006BA9,FFFFFF
+7634,cherriots-salem-or-us,17,Edgewater Street,,3,,F15B5C,FFFFFF
+7635,cherriots-salem-or-us,18,12th / Liberty,,3,,006BA9,FFFFFF
+7636,cherriots-salem-or-us,19,Broadway / River Rd,,3,,F15B5C,FFFFFF
+7646,cherriots-salem-or-us,20X,North Marion County / Salem Express,,3,,50748A,FFFFFF
+7637,cherriots-salem-or-us,21,South Commercial,,3,,F15B5C,FFFFFF
+7638,cherriots-salem-or-us,22,Library Loop,,3,,006BA9,FFFFFF
+7639,cherriots-salem-or-us,23,Lansing / Hawthorne,,3,,006BA9,FFFFFF
+7640,cherriots-salem-or-us,24,State / Lancaster,,3,,006BA9,FFFFFF
+7641,cherriots-salem-or-us,26,Glen Creek / Orchard Heights,,3,,006BA9,FFFFFF
+7642,cherriots-salem-or-us,27,Glen Creek / Eola,,3,,006BA9,FFFFFF
+7647,cherriots-salem-or-us,30X,Santiam / Salem Express,,3,,50748A,FFFFFF
+7648,cherriots-salem-or-us,40X,Polk County / Salem Express,,3,,50748A,FFFFFF
+7649,cherriots-salem-or-us,50X,Dallas / Salem Express,,3,,50748A,FFFFFF
+7616,cherriots-salem-or-us,01X,Willsonville / Salem  Express,,3,,50748A,FFFFFF
